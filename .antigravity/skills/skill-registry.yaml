@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: zuni-tribe-of-the-zuni-reservation-new-man-restitution-roadmap-and-qsf-trust-execution
+  name: Zuni Tribe of the Zuni Reservation New Man Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/zuni-tribe-of-the-zuni-reservation-new-man-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
