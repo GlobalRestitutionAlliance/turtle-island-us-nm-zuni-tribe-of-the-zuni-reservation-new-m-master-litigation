@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=NM+ZUNI+TRIBE+OF+THE+ZUNI+RESERVATION+NEW+M",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=NM+ZUNI+TRIBE+OF+THE+ZUNI+RESERVATION+NEW+M",
+  "title": "Federal Register - NM ZUNI TRIBE OF THE ZUNI RESERVATION NEW M",
+  "fetched_at": "2026-11-23T18:15:09.402326Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 215617,
+  "sha256": "524ae76c1d9af5ac9d4458559a09ef54a7efb8ee4645be1871c1e8f820318f2c",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
